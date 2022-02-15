@@ -27,6 +27,7 @@ a {
       text-shadow: 20px 4px 20px greenyellow;
       color: beige;
       border-bottom: none;
+      display: block;
 
 
 
@@ -38,5 +39,10 @@ a {
       letter-spacing: 1em;
 
 
+
+}
+
+.opium {
+      display: block;
 
 }
