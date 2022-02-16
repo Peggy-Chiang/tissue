@@ -46,3 +46,19 @@ a {
       display: block;
 
 }
+
+.landscaping {
+  position: fixed;
+  top: 100px;
+  left: 80px;
+  color: salmon;
+}
+
+.hood {
+  position: absolute;
+  top: 20%;
+  left: 70%;
+
+color: turquoise;
+
+}
